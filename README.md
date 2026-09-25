@@ -183,12 +183,3 @@ These pages are accessible without any login:
 
 ---
 
-## Support
-
-For questions or issues, open a GitHub Issue or reach out at `your@email.com`.
-
----
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
