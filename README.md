@@ -4,7 +4,6 @@
 ![Version](https://img.shields.io/badge/Version-1.0.0-blue)
 ![Platform](https://img.shields.io/badge/Platform-Zoho%20Creator-orange)
 ![Status](https://img.shields.io/badge/Status-Active-green)
-![License](https://img.shields.io/badge/License-MIT-lightgrey)
 
 ---
 
